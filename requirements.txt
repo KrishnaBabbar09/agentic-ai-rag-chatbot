@@ -1,0 +1,11 @@
+langchain
+langchain-text-splitters
+langgraph
+pinecone
+pymupdf
+python-dotenv
+fastapi
+uvicorn
+pydantic
+sentence-transformers
+langchain-ollama
